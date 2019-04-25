@@ -1,0 +1,9 @@
+open cmd
+move directory to the folder where server exists
+run server by
+	py <server-file-name>.py
+
+or in some python versions:
+	python <server-file-name>.py
+
+then do the same with client 

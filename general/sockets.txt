@@ -1,0 +1,14 @@
+import socket
+
+socket.gethostname()
+socket.gethostbyname()
+
+socket.getservbyport(port) or port , protocol_name
+socket.getportbyname()
+
+socket.htonl()
+socket.htons()
+socket.settimeout()
+socket.gettimeout()
+socket.inet_ntoa()
+socket.inet_aton()
